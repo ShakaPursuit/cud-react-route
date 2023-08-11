@@ -11,6 +11,7 @@ function App() {
     <Router>
  
        <h1>screen views</h1>
+       <h2>hey</h2>
     
 
        </Router>
